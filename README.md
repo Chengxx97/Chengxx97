@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chengxx97
 - 👀 I’m interested in I don't know yet
-- 🌱 I’m currently learning Phyton and QA Automation
+- 🌱 I’m currently learning Python and QA Automation
 - 💞️ I’m looking to collaborate on Phyton and Automation
 
 
